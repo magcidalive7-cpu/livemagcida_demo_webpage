@@ -2,8 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load datasets
-inflation = pd.read_csv("inflation.csv", skiprows=4)
-unemployment = pd.read_csv("unemployment.csv", skiprows=4)
+inflation = pd.read_csv("csv/inflation.csv", skiprows=4)
+unemployment = pd.read_csv("csv/unemployment.csv", skiprows=4)
 
 # Filter for South Africa
 country = "South Africa"
