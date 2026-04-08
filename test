@@ -1,0 +1,88 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Analytics Project Ideas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+            color: #38bdf8;
+        }
+        .project {
+            background: #1e293b;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 12px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+        }
+        h2 {
+            color: #22c55e;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .difficulty {
+            font-weight: bold;
+            color: #facc15;
+        }
+    </style>
+</head>
+<body><h1>Data Analytics Project Ideas</h1><div class="project">
+    <h2>1. Sales Dashboard Analysis</h2>
+    <p>Create a dashboard that analyzes sales performance over time.</p>
+    <ul>
+        <li>Clean sales dataset (CSV)</li>
+        <li>Analyze revenue trends</li>
+        <li>Visualize using charts</li>
+        <li>Tools: Excel / Python / Power BI</li>
+    </ul>
+    <p class="difficulty">Difficulty: Beginner</p>
+</div><div class="project">
+    <h2>2. Customer Segmentation</h2>
+    <p>Group customers based on behavior using clustering techniques.</p>
+    <ul>
+        <li>Use K-Means clustering</li>
+        <li>Analyze purchasing habits</li>
+        <li>Identify high-value customers</li>
+        <li>Tools: Python (Pandas, Scikit-learn)</li>
+    </ul>
+    <p class="difficulty">Difficulty: Intermediate</p>
+</div><div class="project">
+    <h2>3. Website Traffic Analysis</h2>
+    <p>Analyze user behavior on a website.</p>
+    <ul>
+        <li>Sessions, bounce rate, conversions</li>
+        <li>Visualize trends</li>
+        <li>Provide business insights</li>
+        <li>Tools: Google Analytics / Python</li>
+    </ul>
+    <p class="difficulty">Difficulty: Beginner</p>
+</div><div class="project">
+    <h2>4. Fraud Detection Model</h2>
+    <p>Detect fraudulent transactions using data patterns.</p>
+    <ul>
+        <li>Analyze transaction data</li>
+        <li>Build classification model</li>
+        <li>Evaluate accuracy</li>
+        <li>Tools: Python (Machine Learning)</li>
+    </ul>
+    <p class="difficulty">Difficulty: Advanced</p>
+</div><div class="project">
+    <h2>5. Business Profit Optimization</h2>
+    <p>Analyze costs and revenue to maximize profit.</p>
+    <ul>
+        <li>Break down expenses</li>
+        <li>Identify inefficiencies</li>
+        <li>Recommend strategies</li>
+        <li>Tools: Excel / Python</li>
+    </ul>
+    <p class="difficulty">Difficulty: Intermediate</p>
+</div></body>
+</html>
